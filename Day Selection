@@ -23,5 +23,8 @@ int main()
         cout<<"Monday";
         case 7:
         cout<<"Monday";
+        break;
+        default:
+        cout<<"Incorrect Value";
     }
 }
